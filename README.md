@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aishahasmoh@gmail.com**
 
-- 📄 Know about my experiences [https://pages.cs.wisc.edu/~aisha/Aisha_Mohamed_files/resume.pdf](https://pages.cs.wisc.edu/~aisha/Aisha_Mohamed_files/resume.pdf)
+- 📄 Know about my experiences [in/aishahasm/](https://www.linkedin.com/in/aishahasm/)
 
 - ⚡ Fun fact **I sometime perform at Standup Comedy Open Mics.**
 
