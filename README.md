@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aisha</h1>
 <h3 align="center">A passionate software engineer. Interested in Systems and Machine Learning.</h3>
 
-- 👨‍💻 All of my publications are available at [https://scholar.google.com/citations?user=iaUPL1EAAAAJ&hl=en](https://scholar.google.com/citations?user=iaUPL1EAAAAJ&hl=en)
+- 👨‍💻 All of my publications are available at [Google Scholar](https://scholar.google.com/citations?user=iaUPL1EAAAAJ&hl=en)
 
 - 📫 How to reach me **aishahasmoh@gmail.com**
 
