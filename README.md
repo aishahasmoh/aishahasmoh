@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aisha</h1>
-<h3 align="center">A passionate software engineer. Interested in Systems and Machine Learning.</h3>
+<h3 align="center">I am AI Frameworks Engineer at Modular. I am interested in Machine Learning and Programming Languages.</h3>
 
 - 👨‍💻 All of my publications are available at [Google Scholar](https://scholar.google.com/citations?user=iaUPL1EAAAAJ&hl=en)
 
