@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [my website](https://pages.cs.wisc.edu/~aisha/)
 
-- ⚡ Fun fact **I sometime perform at Standup Comedy Open Mics.**
+- ⚡ Fun fact **I sometimes perform at Standup Comedy Open Mics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
