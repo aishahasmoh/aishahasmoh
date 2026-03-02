@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aisha</h1>
-<h3 align="center">I am AI Frameworks Engineer at Modular. I am interested in Machine Learning and Programming Languages.</h3>
+<h3 align="center">I am AI Engineer at Modular. </h3>
 
 - 👨‍💻 All of my publications are available at [Google Scholar](https://scholar.google.com/citations?user=iaUPL1EAAAAJ&hl=en)
-
-- 📫 How to reach me **aishahasmoh@gmail.com**
-
-- 📄 Know about my experiences [my website](https://pages.cs.wisc.edu/~aisha/)
-
-- ⚡ Fun fact **I sometimes perform at Standup Comedy Open Mics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
